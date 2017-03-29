@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "name": "Espanya",
+      "capital": "Madrid",
+      "population": "6,620,000",
+      "density": "5,390 habitants / km^2",
+      "latitude": "40.23º",
+      "longitude": "3.43º",
+      "elevation": "667 metres"
+    },
+    {
+      "name": "França",
+      "capital": "Paris",
+      "population": "2,229,621",
+      "density": "21,000 habitants / km^2",
+      "latitude": "48.51º",
+      "longitude": "2.21º",
+      "elevation": "130 metres"
+    },
+    {
+      "name": "Italia",
+      "capital": "Roma",
+      "population": "4,348,736",
+      "density": "2,232 habitants / km^2",
+      "latitude": "41.54º",
+      "longitude": "12.30º",
+      "elevation": "21 metres"
+    },
+    {
+      "name": "Alemanya",
+      "capital": "Berlin",
+      "population": "6,004,857",
+      "density": "4,100 habitants / km^2",
+      "latitude": "52.30º",
+      "longitude": "13.08º",
+      "elevation": "34 metres"
+    }
+  ]
+}
