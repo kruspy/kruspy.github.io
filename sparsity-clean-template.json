@@ -1,6 +1,7 @@
 {
   "countries": [
     {
+      "id": "1"
       "name": "Espanya",
       "capital": "Madrid",
       "population": "6,620,000",
@@ -10,6 +11,7 @@
       "elevation": "667 metres"
     },
     {
+      "id": "2"
       "name": "França",
       "capital": "Paris",
       "population": "2,229,621",
@@ -19,6 +21,7 @@
       "elevation": "130 metres"
     },
     {
+      "id": "3"
       "name": "Italia",
       "capital": "Roma",
       "population": "4,348,736",
@@ -28,6 +31,7 @@
       "elevation": "21 metres"
     },
     {
+      "id": "4"
       "name": "Alemanya",
       "capital": "Berlin",
       "population": "6,004,857",
